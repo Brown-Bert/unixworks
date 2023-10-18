@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(work2)
+find_package(OpenSSL REQUIRED)
+include_directories(${OPENSSL_INCLUDE_DIR})
+add_executable(copymain copymain.cpp copyfile.cpp)
+target_link_libraries(copymain ${OPENSSL_LIBRARIES})

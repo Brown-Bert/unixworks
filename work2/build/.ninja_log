@@ -1,0 +1,23 @@
+# ninja log v5
+0	21940	1697429437934345864	googletest-main/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	246de6c2c5e51ce8
+0	27562	1697429443553356563	googletest-main/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	d282e8e1e5e1f6f4
+21942	27918	1697429443917295738	googletest-main/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	6e85ad87001f22d8
+27918	30289	1697429446284912006	bin/CMakeFiles/copymain.dir/copyfile.cpp.o	c590b16148d32035
+3	30927	1697429446908813507	googletest-main/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	e16e9e87ffc023a4
+32451	32543	1697429448536562675	lib/libgmock_main.a	6d4554e57860bb6b
+3	4887	1697433545248666386	bin/CMakeFiles/copymain.dir/copymain.cpp.o	af0f8da1e4374200
+4887	5192	1697433545552665800	bin/copymain	c49cffa91dcaf300
+30927	32319	1697429448304597920	lib/libgtest.a	efc8c863df63b31a
+32319	32450	1697429448440577259	lib/libgmock.a	50d183acb3628a16
+32323	32500	1697429448484570575	lib/libgtest_main.a	fe1bd36f5c42d0a5
+2	3474	1697435942182756714	bin/CMakeFiles/copymain.dir/copymain.cpp.o	af0f8da1e4374200
+3474	3816	1697435942526775772	bin/copymain	c49cffa91dcaf300
+3	727	1697436447739940039	bin/CMakeFiles/copymain.dir/copymain.cpp.o	af0f8da1e4374200
+727	959	1697436447971890911	bin/copymain	c49cffa91dcaf300
+2	775	1697436935995287918	bin/CMakeFiles/copymain.dir/copymain.cpp.o	af0f8da1e4374200
+775	978	1697436936195278445	bin/copymain	c49cffa91dcaf300
+4	743	1697438044544424926	bin/CMakeFiles/copymain.dir/copymain.cpp.o	af0f8da1e4374200
+5	1018	1697438044820414832	bin/CMakeFiles/copymain.dir/copyfile.cpp.o	c590b16148d32035
+1018	1200	1697438045000408251	bin/copymain	c49cffa91dcaf300
+12	703	1697438596187241248	bin/CMakeFiles/copymain.dir/copymain.cpp.o	af0f8da1e4374200
+703	867	1697438596347241069	bin/copymain	c49cffa91dcaf300

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yzx/vscode/workspace/unixworks/work2/build",
+  "command": "/usr/bin/g++ -I/home/yzx/vscode/workspace/unixworks/work2/include -I/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock/include -I/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/include -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest-main/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock/src/gmock-all.cc",
+  "file": "/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/yzx/vscode/workspace/unixworks/work2/build",
+  "command": "/usr/bin/g++ -I/home/yzx/vscode/workspace/unixworks/work2/include -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock/include -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/include -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest-main/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock/src/gmock_main.cc",
+  "file": "/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/yzx/vscode/workspace/unixworks/work2/build",
+  "command": "/usr/bin/g++ -I/home/yzx/vscode/workspace/unixworks/work2/include -I/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/include -I/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest-main/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/src/gtest-all.cc",
+  "file": "/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/yzx/vscode/workspace/unixworks/work2/build",
+  "command": "/usr/bin/g++ -I/home/yzx/vscode/workspace/unixworks/work2/include -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/include -isystem /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest-main/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/src/gtest_main.cc",
+  "file": "/home/yzx/vscode/workspace/unixworks/work2/googletest-main/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/yzx/vscode/workspace/unixworks/work2/build",
+  "command": "/usr/bin/g++ -I/home/yzx/vscode/workspace/unixworks/work2/include -g -o bin/CMakeFiles/copymain.dir/copymain.cpp.o -c /home/yzx/vscode/workspace/unixworks/work2/src/copymain.cpp",
+  "file": "/home/yzx/vscode/workspace/unixworks/work2/src/copymain.cpp"
+},
+{
+  "directory": "/home/yzx/vscode/workspace/unixworks/work2/build",
+  "command": "/usr/bin/g++ -I/home/yzx/vscode/workspace/unixworks/work2/include -g -o bin/CMakeFiles/copymain.dir/copyfile.cpp.o -c /home/yzx/vscode/workspace/unixworks/work2/src/copyfile.cpp",
+  "file": "/home/yzx/vscode/workspace/unixworks/work2/src/copyfile.cpp"
+}
+]
